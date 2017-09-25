@@ -147,7 +147,6 @@ hadoop-daemon.sh start namenode
 $ pwd
 /home/hadoop
 $ yarn jar ./hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.4.jar pi 10 16
-$ yarn jar ./hadoop-2.7.4/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.4.jar pi 10 16
 Number of Maps  = 10
 Samples per Map = 16
 Wrote input for Map #0
